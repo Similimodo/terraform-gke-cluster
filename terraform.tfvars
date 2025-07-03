@@ -1,2 +1,2 @@
-project_id = "terraform-348200"
+project_id = "<PROJECT_ID>"
 region     = "us-east1"
